@@ -8,7 +8,7 @@ A 'Sales Management' application written in python for purchasing items which co
 6.  search items
 7.  sort by quantity
 8.  sort by price 
-9.  buy an item
-10. daily sales
-11. monthly sales
-12. yearly sales
+9.  buy items
+10. display daily sales
+11. display monthly sales
+12. display yearly sales
